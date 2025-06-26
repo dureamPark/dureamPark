@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hello! I'm dureamPark
 
-<!--
-**dureamPark/dureamPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sangmyung University  
+💻 I love Unreal Engine, Game Development, and AI!
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- 🕹️ Unreal Engine / Unity
+- 💬 C++, C#, Python
+- 🧠 AI / ML / LSTM / RL
+- 🌐 Redis, MySQL, Websocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![dureamPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=dureamPark&show_icons=true&theme=radical)
+
+### 🌱 Recent Projects
+- 🎮 **Anything_Gamejam** – Unity 기반 미니게임
+- 🤖 **Algorithm** – 알고리즘 수업 프로젝트
+- 🦑 **Target_Anemone** – 언리얼 기반 팀 프로젝트
+
+### 🧩 Fun Fact
+> "코드는 나의 예술이다."
+
+---

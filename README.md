@@ -60,6 +60,3 @@
 - 🎮 [GameJam](https://github.com/dureamPark/25_GameJam_manduqueen) - Unreal 멀티 협력 어드벤처 게임.
 - 🎮 [GameJam](https://github.com/dureamPark/Anything_Gamejam) - Unity 디펜스 게임.
 ---
-
-[![dureamPark's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dureamPark&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-

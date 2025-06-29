@@ -1,39 +1,42 @@
 <h1 align="center">👋 I'm Game Developer dureamPark!</h1>
 <p align="center">
   🎮 Unreal & Unity Developer | 🏫 Sangmyung Univ.
+  ### 🔗 Connect with Me
+📬 Email: doo71720103@gmail.com
 </p>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 <div align="center">Tech Stack</div>
 
-#### 🎮 Game Engine & Framework
-<p>
+#### <div align="center">🎮 Game Engine & Framework</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
-#### 👨‍💻 Programming Languages
-<p>
+#### <div align="center">👨‍💻 Programming Languages</div>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### 🌐 Web Development
-<p>
+#### <div align="center">🌐 Web Development</div>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### 🗃️ Database & Networking
-<p>
+#### <div align="center">🗃️ Database & Networking</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -46,17 +49,10 @@
 ---
 
 ### 💡 Recent Projects
-- 🎯 [Target_Anemone](https://github.com/yourrepo) - 언리얼 기반 협업 팀 프로젝트
-- 🤖 [Algorithm](https://github.com/yourrepo) - 알고리즘 수업 과제 모음
-- 🎮 [Anything_Gamejam](https://github.com/yourrepo) - Unity 미니게임
-
+- 🎮 [GameJam](https://github.com/dureamPark/24_2_GameJam_Anything) - Unreal 1:1 멀티 버스 던지기 게임.
+- 🎮 [GameJam](https://github.com/dureamPark/morohagi_GameJam) - Unreal 소리를 이용한 비눗방울 게임.
+- 🎮 [GameJam](https://github.com/dureamPark/25_GameJam_manduqueen) - Unreal 멀티 협력 어드벤처 게임.
+- 🎮 [GameJam](https://github.com/dureamPark/Anything_Gamejam) - Unity 디펜스 게임.
 ---
 
-### 🎨 Fun Fact
-> “코드는 나의 예술이다.”
 
----
-
-### 🔗 Connect with Me
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@dureamPark)  
-📬 Email: duream123@smu.ac.kr

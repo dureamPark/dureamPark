@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dureamPark&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dureamPark&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dureamPark&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dureamPark&layout=compact&theme=default" />
 </p>
 
 ---

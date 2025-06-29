@@ -1,9 +1,12 @@
 <h1 align="center">👋 I'm Game Developer dureamPark!</h1>
 <p align="center">
-  🎮 Unreal & Unity Developer | 🏫 Sangmyung Univ.
-  ### 🔗 Connect with Me
-📬 Email: doo71720103@gmail.com
+  🎮 Unreal & Unity Developer &nbsp;|&nbsp; 🏡 Sangmyung Univ. &nbsp;|&nbsp; 🔗 Connect with Me
 </p>
+
+<p align="center">
+  📧 Email: <a href="mailto:doo71720103@gmail.com">doo71720103@gmail.com</a>
+</p>
+
 
 ---
 

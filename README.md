@@ -61,5 +61,5 @@
 - 🎮 [GameJam](https://github.com/dureamPark/Anything_Gamejam) - Unity 디펜스 게임.
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dureamPark&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![dureamPark's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dureamPark&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

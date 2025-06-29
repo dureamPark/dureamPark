@@ -1,17 +1,34 @@
-<h1 align="center">👋 Hi there, I'm dureamPark!</h1>
+<h1 align="center">👋 I'm Game Developer dureamPark!</h1>
 <p align="center">
-  🎮 Unreal & Unity Developer | 💡 AI Enthusiast | 🏫 Sangmyung Univ.
+  🎮 Unreal & Unity Developer | 🏫 Sangmyung Univ.
 </p>
 
 ---
 
 ### 🛠 Tech Stack
+
+#### 🎮 Game Engine & Framework
 <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+
+#### 🧠 Programming Languages
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+#### 🗃️ Database & Networking
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white"/>
+
+#### 💻 Web Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
+#### 🧠 AI / ML
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-purple?style=flat&logo=github&logoColor=white"/>
 
 ---
 
